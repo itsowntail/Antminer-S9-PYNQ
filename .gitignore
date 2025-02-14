@@ -1,0 +1,15 @@
+*.xpr             # Vivado project file
+*.jou             # Journal files
+*.log             # Log files
+*.str             # Strategy files
+*.runs            # Synthesis and implementation runs
+*.cache           # Cached files
+*.hw             # Hardware-related files
+*.dcp            # Design Checkpoint files
+*.gen            # Generated files
+*.tmp            # Temporary files
+*.wdb            # Waveform database
+*.bit            # Bitstream files (can be regenerated)
+*.hwh            # HWH hardware description files
+*.tcl.bak        # Backup scripts
+*.sdk            # SDK workspace
